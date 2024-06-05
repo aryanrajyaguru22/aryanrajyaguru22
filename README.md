@@ -6,7 +6,7 @@
 - 💞️ I want to collaborate on App development & Web Development & Design.
 - 📫 How to reach me aryanrajyaguru22@gmail.com / aryanrajyaguru22@outlook.com.
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact I am Funny.
+- ⚡ Fun fact I am Creative.
 
 <!---
 aryanrajyaguru22/aryanrajyaguru22 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
