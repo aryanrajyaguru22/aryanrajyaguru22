@@ -7,9 +7,8 @@
 - 📫 How to reach me aryanrajyaguru22@gmail.com / aryanrajyaguru22@outlook.com.
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact I am Creative.
-- 💼 I Currently Work At IAppstack Solutions as an Intern.
-
 <!---
+- 💼 I Currently Work At IAppstack Solutions as an Intern.
 aryanrajyaguru22/aryanrajyaguru22 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
