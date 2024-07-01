@@ -9,7 +9,7 @@
 - ⚡ Fun fact I am Creative.
 
 
-[<img src='https://cdn3.iconfinder.com/data/icons/2018-social-media-black-and-white-logos/1000/2018_social_media_popular_app_logo_linkedin-512.png' alt='linkedin' height='40'>]([https://www.linkedin.com/in/rajyaguru-aryan-832128207/])  [<img src='https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/medium-round-icon.png' alt='medium' height='40'>](https://aryanrajyaguru22.medium.com/)  
+[<img src='https://cdn3.iconfinder.com/data/icons/2018-social-media-black-and-white-logos/1000/2018_social_media_popular_app_logo_linkedin-512.png' alt='linkedin' height='40'>]([https://www.linkedin.com/in/rajyaguru-aryan-832128207/])  [<img src='https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/medium-round-icon.png' alt='medium' height='40'>]  
 
 <!--- ![Metrics](https://metrics.lecoq.io/Madhav-Gohel?template=classic&isocalendar=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=full-year&config.timezone=Asia%2FCalcutta)
 --->
