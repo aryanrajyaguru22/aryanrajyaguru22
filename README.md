@@ -9,6 +9,17 @@
 - ⚡ Fun fact I am Creative.
 
 <p align="center">
+  <a href="https://github.com/aryanrajyaguru22/capsule-render](https://git.io/typing-svg)">
+    <img src="https://readme-typing-svg.demolab.com?font=Work+Sans&weight=700&size=36&duration=4000&pause=1500&color=5D699B&background=FFFFFF00&center=true&vCenter=true&width=756&height=80&lines=Hi+%F0%9F%91%8B%2C+I'm+Rajyaguru  Aryan!;%E2%9C%A8+Frontend+Developer;%E2%9C%A8+Python Developer";%E2%9C%A8+Database Developer" alt="Typing SVG"/>
+  </a>
+  <a href="https://github.com/aryanrajyaguru22/capsule-render">
+    <img style="border-radius: 1rem;margin-top: -2rem;" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&customColorList=20&section=footer" alt="Header"/>
+  </a>
+</p>
+
+<hr />
+
+<p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img width="52.5%" src="https://github-readme-stats.vercel.app/api?username=aryanrajyaguru22&count_private=true&show_icons=true&theme=dark&hide_border=true&rank_icon=github&custom_title=Github%20Stats&bg_color=16161c" alt="aryanrajyaguru22's GitHub Stats" />
   </a>
