@@ -32,14 +32,9 @@
   </a>
 </p>
 
-<script>
-  document.addEventListener('DOMContentLoaded', function() {
-    // Example: Change text color based on time of day
-    const hours = new Date().getHours();
-    const color = hours >= 18 || hours <= 6 ? '#ffcccb' : '#add8e6';
-    document.querySelector('h1').style.color = color;
-  });
-</script>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aryanrajyaguru22&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
 
 - 🌐 My Website is https://rajyaguruaryan.000webhostapp.com/
 - 📫 How to reach me aryanrajyaguru22@gmail.com / aryanrajyaguru22@outlook.com.
