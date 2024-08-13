@@ -14,10 +14,9 @@
     <img src="https://github-widgetbox.vercel.app/api/profile?username=aryanrajyaguru22&data=followers,repositories,stars,commits&theme=nautilus" alt="GitHub Widgetbox"/>
   </a>
   <a href="https://github.com/Jurredr/github-widgetbox">
-    <img src="https://github-widgetbox.vercel.app/api/skills?languages=python,php,html,css,java,mysql,sql,js,c,cpp,xml,visualbasic&includeNames=true&theme=nautilus" alt="GitHub Widgetbox" />
-    <img src="https://github-widgetbox.vercel.app/api/skills?frameworks=django,bootstrap,dotnet&includeNames=true&theme=nautilus" alt="GitHub Widgetbox" />
-    <img src="https://github-widgetbox.vercel.app/api/skills?tools=git,mongodb,wordpress,heroku,apache,aws&includeNames=true&theme=nautilus" alt="GitHub Widgetbox" />
-    <img src="https://github-widgetbox.vercel.app/api/skills?software=windows,vscode&includeNames=true&theme=nautilus" alt="GitHub Widgetbox" />
+    <img src="
+https://github-widgetbox.vercel.app/api/skills?languages=python,php,html,css,java,mysql,c,cpp,xml,json,powershell,visualbasic&frameworks=django,bootstrap,dotnet&tools=git,mongodb,wordpress,heroku,apache,aws&software=windows,vscode&includeNames=true&theme=nautilus" alt="GitHub Widgetbox" />
+    
   <a/>
 </p>
 
@@ -34,10 +33,6 @@
   </a>
 </p>
 
-
-<a href="https://github.com/Jurredr/github-widgetbox">
-    <img src="https://github-widgetbox.vercel.app/api/skills?languages=html,css,python,sql,Wordpress,php,java&frameworks=bootstrap&tools=git,mongodb,vscode&theme=dark" alt="GitHub Widgetbox" />
-  <a/>
 
 - 🌐 My Website is https://rajyaguruaryan.000webhostapp.com/
 - - 📫 How to reach me aryanrajyaguru22@gmail.com / aryanrajyaguru22@outlook.com.
