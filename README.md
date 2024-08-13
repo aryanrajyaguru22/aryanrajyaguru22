@@ -14,7 +14,7 @@
     <img src="https://github-widgetbox.vercel.app/api/profile?username=aryanrajyaguru22&data=followers,repositories,stars,commits&theme=nautilus" alt="GitHub Widgetbox"/>
   </a>
   <a href="https://github.com/Jurredr/github-widgetbox">
-    <img src="https://github-widgetbox.vercel.app/api/skills?languages=python,php,html,css,java,mysql,sql,js,c,cpp,xml,visualbasic&frameworks=django,bootstrap,dotnet&includeNames=true&theme=nautilus" alt="GitHub Widgetbox" />
+    <img src="https://github-widgetbox.vercel.app/api/skills?languages=python,php,html,css,java,mysql,sql,js,c,cpp,xml,visualbasic& frameworks=django,bootstrap,dotnet&includeNames=true&theme=nautilus" alt="GitHub Widgetbox" />
     <img src="https://github-widgetbox.vercel.app/api/skills?frameworks=django,bootstrap,dotnet&includeNames=true&theme=nautilus" alt="GitHub Widgetbox" />
   <a/>
 </p>
