@@ -11,10 +11,10 @@
 
 <p align="center">
   <a href="https://github.com/Jurredr/github-widgetbox">
-    <img src="https://github-widgetbox.vercel.app/api/profile?username=aryanrajyaguru22&data=followers,repositories,stars,commits&theme=aether" alt="GitHub Widgetbox"/>
+    <img src="https://github-widgetbox.vercel.app/api/profile?username=aryanrajyaguru22&data=followers,repositories,stars,commits&theme=nautilus" alt="GitHub Widgetbox"/>
   </a>
   <a href="https://github.com/Jurredr/github-widgetbox">
-    <img src="https://github-widgetbox.vercel.app/api/skills?languages=html,css,python,sql,Wordpress,php,java&frameworks=bootstrap&tools=git,mongodb,vscode&theme=dark" alt="GitHub Widgetbox" />
+    <img src="https://github-widgetbox.vercel.app/api/skills?languages=python,php,html,css,java,mysql,c,cpp,xml,visualbasic&includeNames=true&theme=nautilus" alt="GitHub Widgetbox" />
   <a/>
 </p>
 
@@ -30,6 +30,11 @@
     <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryanrajyaguru22&layout=compact&langs_count=6&theme=dark&hide_border=true&custom_title=Top%20Languages&bg_color=16161c" alt="aryanrajyaguru22's Top Langs" />
   </a>
 </p>
+
+
+<a href="https://github.com/Jurredr/github-widgetbox">
+    <img src="https://github-widgetbox.vercel.app/api/skills?languages=html,css,python,sql,Wordpress,php,java&frameworks=bootstrap&tools=git,mongodb,vscode&theme=dark" alt="GitHub Widgetbox" />
+  <a/>
 
 - 🌐 My Website is https://rajyaguruaryan.000webhostapp.com/
 - - 📫 How to reach me aryanrajyaguru22@gmail.com / aryanrajyaguru22@outlook.com.
