@@ -15,6 +15,7 @@
   </a>
   <a href="https://github.com/Jurredr/github-widgetbox">
     <img src="https://github-widgetbox.vercel.app/api/skills?languages=python,php,html,css,java,mysql,sql,js,c,cpp,xml,visualbasic&includeNames=true&theme=nautilus" alt="GitHub Widgetbox" />
+    <img src="https://github-widgetbox.vercel.app/api/frameworks=django,bootstrap,dotnet&includeNames=true&theme=nautilus" alt="GitHub Widgetbox" />
   <a/>
 </p>
 
