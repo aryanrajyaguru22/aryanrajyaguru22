@@ -25,20 +25,18 @@
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img width="52.5%" src="https://github-readme-stats.vercel.app/api?username=aryanrajyaguru22&count_private=true&show_icons=true&theme=dark&hide_border=true&rank_icon=github&custom_title=Github%20Stats&bg_color=16161c" alt="aryanrajyaguru22's GitHub Stats" />
+    <img width="52.5%" src="https://github-readme-stats.vercel.app/api?username=aryanrajyaguru22&show_icons=true&theme=radical" alt="GitHub Stats" />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryanrajyaguru22&layout=compact&langs_count=6&theme=dark&hide_border=true&custom_title=Top%20Languages&bg_color=16161c" alt="aryanrajyaguru22's Top Langs" />
   </a>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aryanrajyaguru22&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
 
 - 🌐 My Website is https://rajyaguruaryan.000webhostapp.com/
 - 📫 How to reach me aryanrajyaguru22@gmail.com / aryanrajyaguru22@outlook.com.
 <!--- ![Metrics](https://metrics.lecoq.io/Madhav-Gohel?template=classic&isocalendar=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=full-year&config.timezone=Asia%2FCalcutta)
+https://github-readme-stats.vercel.app/api?username=aryanrajyaguru22&count_private=true&show_icons=true&theme=dark&hide_border=true&rank_icon=github&custom_title=Github%20Stats&bg_color=16161c
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=aryanrajyaguru22&show_icons=true&theme=transparent&hide_border=true)
 
