@@ -33,10 +33,10 @@
 
 
 <a href="https://github.com/aryanrajyaguru22/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aryanrajyaguru22&repo=&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aryanrajyaguru22&repo=aryanrajyaguru22.github.io/Age_Calculater/&theme=buefy" />
 </a>
 <a href="https://github.com/aryanrajyaguru22/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aryanrajyaguru22&repo=&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aryanrajyaguru22&repo=aryanrajyaguru22.github.io/Portfolio/&theme=buefy" />
 </a>
 
 
