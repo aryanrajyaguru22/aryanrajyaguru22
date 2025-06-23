@@ -1,13 +1,3 @@
-<p align="center">
-  <a href="https://github.com/aryanrajyaguru22/capsule-render](https://git.io/typing-svg)">
-    <img src="https://readme-typing-svg.demolab.com?font=Work+Sans&weight=700&size=36&duration=5000&pause=2500&color=5D699B&background=FFFFFF00&center=true&vCenter=true&width=756&height=80&lines=Hi+%F0%9F%91%8B%2C+I'm+Rajyaguru  Aryan!;%E2%9C%A8+Database+Developer;%E2%9C%A8+Python Developer";%E2%9C%A8+Database Developer" />
-  </a>
-  <a href="https://github.com/aryanrajyaguru22/capsule-render">
-    <img style="border-radius: 1rem;margin-top: -2rem;" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&customColorList=20&section=footer" alt="Header"/>
-  </a>
-</p>
-
-<hr />
 
 <p align="center">
   <a href="https://github.com/Jurredr/github-widgetbox">
