@@ -10,8 +10,8 @@
   <a href="https://www.linkedin.com/in/rajyaguru-aryan/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:aryanrajyaguru22@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  <a href="mailto:aryanrajyaguru22@outlook.com">
+    <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Outlook"/>
   </a>
   <p align="center">
     <img src="https://profile-counter.glitch.me/aryanrajyaguru22/count.svg" alt="Visitor Count" />
@@ -22,12 +22,12 @@
 
 ### 👨‍💻 About Me
 
-[cite_start]I am a highly motivated and results-oriented Machine Learning enthusiast from India[cite: 12, 16]. [cite_start]My passion lies in building end-to-end ML solutions that solve real-world problems[cite: 7]. [cite_start]With a strong foundation in Python, TensorFlow, and Computer Vision, I enjoy diving deep into data, training robust models, and deploying them to create impactful AI-driven projects[cite: 6, 7].
+I am a highly motivated and results-oriented Machine Learning enthusiast from India. My passion lies in building end-to-end ML solutions that solve real-world problems. With a strong foundation in Python, TensorFlow, and Computer Vision, I enjoy diving deep into data, training robust models, and deploying them to create impactful AI-driven projects.
 
-- [cite_start]🔭 I’m currently working on developing my skills in **Deep Learning and NLP**[cite: 65].
-- [cite_start]🌱 I’m currently learning more about **ML pipelines and model deployment**[cite: 65].
-- [cite_start]💬 Ask me about **Python, TensorFlow, Computer Vision, and Django**[cite: 63, 64].
-- [cite_start]📫 How to reach me: **aryanrajyaguru22@gmail.com** [cite: 3]
+- 🔭 I’m currently working on developing my skills in **Deep Learning and NLP**.
+- 🌱 I’m currently learning more about **ML pipelines and model deployment**.
+- 💬 Ask me about **Python, TensorFlow, Computer Vision, and Django**.
+- 📫 How to reach me: **aryanrajyaguru22@outlook.com**
 
 ---
 
@@ -78,15 +78,15 @@ Here are some of the projects I'm most proud of.
 
 | Project | Description | Technologies Used |
 |---|---|---|
-| **Automated Crime Scene Observation System** | A computer vision system to automate evidence detection in crime scene photos for the Gujarat Police Department. [cite_start]Achieved 90% detection accuracy for weapons and footprints[cite: 40, 41]. | [cite_start]`Python`, `Django`, `TensorFlow`, `YOLOv8`, `MySQL` [cite: 40] |
-| **AI Healthcare Chatbot** | [cite_start]A chatbot providing symptom analysis and doctor recommendations using Google's Gemini API[cite: 43, 45]. | [cite_start]`Python`, `Streamlit`, `Google Gemini API` [cite: 43] |
-| **WhatsApp Chat Analyzer**| [cite_start]An interactive web app to perform in-depth analysis of WhatsApp chats, including sentiment analysis and data visualization[cite: 49, 53, 54]. | [cite_start]`Python`, `Streamlit`, `Pandas`, `NLTK` [cite: 49] |
-| **Predictive Analysis of Zomato Restaurant Data** | [cite_start]Analyzed 50,000+ Zomato listings to find key factors for high ratings and built a predictive model to forecast restaurant success[cite: 56, 58]. | [cite_start]`Python`, `Scikit-Learn`, `Pandas` [cite: 55] |
+| **Automated Crime Scene Observation System** | A computer vision system to automate evidence detection in crime scene photos for the Gujarat Police Department. Achieved 90% detection accuracy for weapons and footprints. | `Python`, `Django`, `TensorFlow`, `YOLOv8`, `MySQL` |
+| **AI Healthcare Chatbot** | A chatbot providing symptom analysis and doctor recommendations using Google's Gemini API. | `Python`, `Streamlit`, `Google Gemini API` |
+| **WhatsApp Chat Analyzer**| An interactive web app to perform in-depth analysis of WhatsApp chats, including sentiment analysis and data visualization. | `Python`, `Streamlit`, `Pandas`, `NLTK` |
+| **Predictive Analysis of Zomato Restaurant Data** | Analyzed 50,000+ Zomato listings to find key factors for high ratings and built a predictive model to forecast restaurant success. | `Python`, `Scikit-Learn`, `Pandas` |
 
 ---
 
 ### 🐍 My GitHub Contribution Graph
 
 <div align="center">
-  <img src="https://github.com/aryanrajyaguru22/aryanrajyaguru22/blob/output/github-contribution-grid-snake.svg" alt="Snake animation">
+  <img src="https://raw.githubusercontent.com/aryanrajyaguru22/aryanrajyaguru22/main/dist/github-contribution-grid-snake.svg" alt="Snake animation">
 </div>
