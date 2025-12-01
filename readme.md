@@ -38,7 +38,7 @@ with a blend of Machine Learning, Deep Learning, and LLMs.
 
 ---
 
-# 🌈 **Featured Projects (Aesthetic ShowCase)**
+# 🌈 **Featured Projects**
 
 ## 🔹 **🌊 WaterMInder — AI Hydration Assistant (LLM + Apple Foundation Models)**
 🚰 Personalized hydration advice powered by **LLM fine-tuning with Apple Adapter Training**  
