@@ -33,7 +33,28 @@ with a blend of Machine Learning, Deep Learning, and LLMs.
 
 # 🧠 **Tech I Work With**
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,flask,django,opencv,mysql,postgres,sqlite,github,git,aws,linux&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,java,c,cpp" /><br/>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,sklearn" /><br/>
+<img src="https://skillicons.dev/icons?i=flask,django,streamlit" /><br/>
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite" /><br/>
+<img src="https://skillicons.dev/icons?i=vscode,github,git,docker,linux" />
+</p>
+
+---
+
+### 🧬 **AI, LLM & Computer Vision Specializations**
+
+<p align="center">
+
+✔ **LLMs** — GPT, Gemini, Apple MLX  
+✔ **LLM Fine-Tuning** — Adapter Training, Apple Foundation Models  
+✔ **Computer Vision** — YOLOv5, YOLOv8, OpenCV  
+✔ **Deep Learning** — CNNs, ANN, Transfer Learning  
+✔ **NLP** — NLTK, WordCloud, Text Preprocessing  
+✔ **ML Tools** — Pandas, NumPy, Matplotlib, Seaborn  
+✔ **Model Deployment** — Flask APIs, Streamlit Apps  
+✔ **Backend Development** — Django Admin, Rest APIs  
+
 </p>
 
 ---
@@ -131,4 +152,3 @@ with a blend of Machine Learning, Deep Learning, and LLMs.
 
 <h2 align="center">✨ Thanks for Visiting My Profile ✨  
 <br>Keep Learning • Keep Building • Keep Innovating</h2>
-
